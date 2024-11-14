@@ -7,12 +7,12 @@ profile:
 published: true
 ---
 
-Hello! I am an intern researcher working in [ROMIN](https://romin.re.kr/){:target="_blank"} lab at [Korea Institute of Science and Technology](https://www.kist.re.kr/eng/index.do){:target="_blank"}. I work on optimization with artificial intelligence in a variety of interdisciplinary areas, from rotational mechanics to chemistry. 
+Hello! I am an intern researcher working at [ROMIN](https://romin.re.kr/){:target="_blank"} lab at [Korea Institute of Science and Technology](https://www.kist.re.kr/eng/index.do){:target="_blank"}. I work on optimization with artificial intelligence in a variety of interdisciplinary areas, from rotational mechanics to chemistry. 
 
 고치는 중~~ 뭘쓸까요...
 저는 그 뭐냐 암튼 그거
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
 
+이곳에 오기 전 저는 이화여대에서 computer science and engineering 으로  학사 학위를 땄습니다. 또한 https://hcil-ewha.github.io/homepage/ 에서 학부연구조교로 있었습니다.  
 The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
 
 PS: If you liked the theme, do star it on GitHub!
