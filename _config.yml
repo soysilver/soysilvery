@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Soyeon Lee
+description: Intern Researcher | Korea Institute of Science and Technology
 
 baseurl: /gradfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: "soysilver@kist.re.kr"#
 
 # Pagination
 paginate: 4
