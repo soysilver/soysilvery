@@ -3,7 +3,7 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: kiki.gif
+  image: kiki.png
 published: true
 ---
 
