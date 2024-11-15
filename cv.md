@@ -1,9 +1,6 @@
 ---
 layout: about
 permalink: archive/
-profile:
-  align: right
-  image: profile1.png
 published: true
 ---
 
