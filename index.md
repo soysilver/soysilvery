@@ -17,4 +17,4 @@ Before KIST, I earned my bachelor's degree in Computer Science and Engineering f
 
 ### Also, check out:
 - [My recent projects →]({site.baseurl}/projects/)
-- [The fun side of me →]({site.baseurl}projects/)
+- [The fun side of me →](https://soysilver.github.io/soysilvery/blog/)
