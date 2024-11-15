@@ -21,8 +21,8 @@ Check out the [Wiki](https://github.com/jitinnair1/gradfolio/wiki) for some tips
 
 ### Also, check out:
 
-- [My recent projects →](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [The fun side of me →](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
+- [My recent projects →](https://soysilver.github.io/soysilvery/) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
+- [The fun side of me →](https://soysilver.github.io/soysilvery/) - a minimal, quick-setup template for a blog
 s
 
 PS: If you liked the theme, do star :star: it! Thanks!
