@@ -17,8 +17,9 @@ Before KIST, I earned my bachelor's degree in Computer Science and Engineering f
 
 ### EDUCATION
 ## [Ewha Womans University](https://www.ewha.ac.kr/ewhaen/index.do)
-
-
+ - B.E. in Computer Science and Engineering 
+ - Minor in Chemistry and Nanoscience
+ 
 ### PATENTS
 
 ### CONFERENCES
