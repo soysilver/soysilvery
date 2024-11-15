@@ -1,6 +1,6 @@
 ---
 layout: about
-permalink: /cv/
+permalink: archive/
 profile:
   align: right
   image: profile1.png
