@@ -16,6 +16,5 @@ Before KIST, I earned my bachelor's degree in Computer Science and Engineering f
 2. 최적화: 
 
 ### Also, check out:
-
-- [CV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
+- [My recent projects →](projects/)
+- [The fun side of me →](projects/)
