@@ -16,5 +16,5 @@ Before KIST, I earned my bachelor's degree in Computer Science and Engineering f
 2. 최적화: 
 
 ### Also, check out:
-- [My recent projects →]({site.baseurl}/projects/)
+- [My recent projects →](https://soysilver.github.io/soysilvery/archive/)
 - [The fun side of me →](https://soysilver.github.io/soysilvery/blog/)
