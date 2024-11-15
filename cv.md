@@ -1,6 +1,7 @@
 ---
 layout: about
 permalink: archive/
+title: CV
 published: true
 ---
 
