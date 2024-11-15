@@ -16,5 +16,5 @@ Before KIST, I earned my bachelor's degree in Computer Science and Engineering f
 2. 최적화: 
 
 ### Also, check out:
-- [My recent projects →](projects/)
-- [The fun side of me →](projects/)
+- [My recent projects →]({site.baseurl}/projects/)
+- [The fun side of me →]({site.baseurl}projects/)
