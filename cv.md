@@ -1,6 +1,6 @@
 ---
 layout: about
-permalink: archive/
+permalink: cv/
 title: CV
 published: true
 ---
