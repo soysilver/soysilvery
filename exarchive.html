@@ -4,17 +4,26 @@ permalink: /exarchive/
 title: Archive
 ---
 
-<div class="article-list">
-	{% for post in site.posts %}
-	{% unless post.next %}
-	<h3><small>{{ post.date | date: '%B %Y' }}</small></h3>
-	{% else %}
-	{% capture year %}{{ post.date | date: '%Y %b' }}{% endcapture %}
-	{% capture nyear %}{{ post.next.date | date: '%Y %b' }}{% endcapture %}
-	{% if year != nyear %}
-	<h3><small>{{ post.date | date: '%B %Y' }}</small></h3>
-	{% endif %}
-	{% endunless %}
-    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><br>
-	{% endfor %}
-</div>
+<div>
+	<h3>
+		<small>International Conferences</small>
+	</h3>
+	<a href="https://arxiv.org/pdf/2209.08844.pdf">Kim, C.R. & Kim, U.H. (2022). “A Dual-Cycled Cross-View Transformer Network for Unified Road Layout Estimation and 3D Object Detection in the Bird's-Eye-View,” ArXiv.</a><br/><br>
+
+	<h3><small>Domestic Conferences</small></h3>
+	
+    	<h3><small>PATENTS</small></h3>
+	<a>Chang, S., Song, S.W., Kim, C.R., Park, C.H., Park, J.H., & Song, M.H., (2022). “Image Sensor, Mobile Device and Image Sensor Operation Method for Reducing Data Transmission Latency,” Korea Patent (10-2022-0119537). Under Review.</a><br/><br>
+	<h3><small>SOFTWARE</small></h3>
+    
+	<a>Chang, S., Song, S.W., Kim, C.R., Park, C.H., Park, J.H., & Song, M.H., (2022). “Image Sensor, Mobile Device and Image Sensor Operation Method for Reducing Data Transmission Latency,” Korea Patent (10-2022-0119537). Under Review.</a><br/><br>
+	<h3><small>TEACHING EXPERIENCE</small></h3>
+	<h3><small>INDUSTRY EXPERIENCE</small></h3>
+
+	
+	<h3><small>HONORS & AWARDS</small></h3>
+	<a>(Jun, 2023) Silver award, Undergraduate Paper Contest, Korean Institute of Information Technology</a><br/><br>
+    	<a>(Dec, 2023) Bronze award, 2023 Ewha Engineering Capstone Design Contest, Ewha Womans University ELTEC College of Engineering</a><br/><br>
+
+	
+	</div>
