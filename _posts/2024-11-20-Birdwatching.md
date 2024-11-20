@@ -6,5 +6,7 @@ title: "Birdwatching"
 I often go birding.
 Check out the cool birds I've met along the way.
 
+assets\images\bird.jpg"
+
 |:-:|:-:|:-:|
-|<img src="../assets/images/bird1.jpg" height=300px>|<img src="../assets/images/bird2.jpg" height=300px>|<img src="../assets/images/bird3.jpg" height=300px>|
+|<img src="../assets/images/bird.jpg" height=300px>|<img src="../assets/images/bird2.jpg" height=300px>|<img src="../../assets/images/bird3.jpg" height=300px>|
