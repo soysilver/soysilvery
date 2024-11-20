@@ -11,7 +11,7 @@ published: true
 2. 최적화: 
 
 ### EDUCATION
-#### [Ewha Womans University](https://www.ewha.ac.kr/ewhaen/index.do)
+##### [Ewha Womans University](https://www.ewha.ac.kr/ewhaen/index.do)
  - B.E. in Computer Science and Engineering 
  - Minor in Chemistry and Nanoscience
 
