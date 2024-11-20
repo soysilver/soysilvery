@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Looking for birds!"
+title: "Birdwatching"
 ---
 
 I often go birdwatching.
-Check out the cool birds I've met along the way
+Check out the cool birds I've met along the way.
