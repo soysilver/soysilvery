@@ -17,6 +17,8 @@ Check out the cool birds I've met along the way.
 
 
 
+|:-:|:-:|
+|<img src="{{ '/assets/images/bird.jpg' | relative_url }}" height="200px">|<img src="{{ '/assets/images/bird2.jpg' | relative_url }}" height="200px">|
 
 |:-:|:-:|
 |<img src="../../../assets/images/bird5.jpg" height=200px>|<img src="../../../assets/images/bird6.jpg" height=200px>|
