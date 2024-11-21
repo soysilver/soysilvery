@@ -15,7 +15,7 @@ Before KIST, I earned my bachelor's degree in Computer Science and Engineering f
 1. Optimization
    : I use optimization in various aspects such as power consumption, computation time, etc. to solve problems in computer science and more.
    
-2. Computer Architecture and Systems
+2. Computer Structures and Systems
    : I am interested in AI accelerators such as GPUs and NPUs, as well as building reliable systems for next-generation processors.
    
 
