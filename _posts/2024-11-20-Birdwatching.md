@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Birdwatching"
+title: "Birdwatching"\
+excerpt: <img src="../assets/images/bird3.jpg" height=250px>
 ---
 
 I often go birding.\
