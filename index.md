@@ -12,11 +12,9 @@ Hello! I am an intern researcher working at [ROMIN](https://romin.re.kr/){:targe
 Before KIST, I earned my bachelor's degree in Computer Science and Engineering from [Ewha Womans University](https://www.ewha.ac.kr/ewhaen/index.do){:target="_blank"}, along with a minor in Chemistry & Nanoscience. I also worked as an undergraduate research assistant at [HCILab@EWHA](https://hcil-ewha.github.io/homepage/){:target="_blank"} and as an intern developer at [Blue Solutions](http://www.bluechain.kr/main#){:target="_blank"}, a South Korean startup that develops system software.
 
 ### Research Interests:
-#### 1. Optimization
-   : I use optimization in various aspects such as power consumption, computation time, etc. to solve problems in computer science and more.
+##### 1. Optimization : I use optimization in various aspects such as power consumption, computation time, etc. to solve problems in computer science and more.
    
-#### 2. Computer Structures and Systems
-   : I am interested in AI accelerators such as GPUs and NPUs, as well as building reliable systems for next-generation processors.
+##### 2. Computer Structures and Systems : I am interested in AI accelerators such as GPUs and NPUs, as well as building reliable systems for next-generation processors.
    
 
    
