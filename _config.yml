@@ -13,15 +13,15 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
+#twitter: "#"
+linkedin: "soyeon-lee-b216b726b"
+#stackoverflow: "#"
+github: "soysilver"
+#researchgate: "#"
+#orcid: "#"
+#quora: "#"
+#instagram: "#"
+#facebook: "#"
 
 
 # Markdown
