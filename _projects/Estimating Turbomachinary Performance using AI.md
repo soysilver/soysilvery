@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Meta-CPS
-description: description of the short project which is long enough
+title: Estimating Turbomachinary Performance using AI
+description: Predicting the Performance of Compressor/Blower Systems using AI
 ---
 
 
