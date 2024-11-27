@@ -31,17 +31,22 @@ h1,h2,h3,h4,h5,h6 {
 
 a {
     color: $text-color;
-
     @media (prefers-color-scheme: dark) {
         color: $text-color-dark;
     }
-
     text-decoration: none;
-
     &:hover {
         color: $brand-color;
     }
 }
+
+indent {
+
+	  text-indent : 50px;
+
+	  /* text-indent : 50%; */
+
+	}
 
 
 
