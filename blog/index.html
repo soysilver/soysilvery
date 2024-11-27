@@ -5,7 +5,12 @@ layout: default
 <div class="article-list">
   {% for post in paginator.posts %}
     <h2><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
-    <p>{{post.excerpt}}</p>
+    <p>
+      {% if post.image %}
+        <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" style="height: 250px;">
+      {% endif %}
+      {{ post.excerpt }}
+    </p>
   {% endfor %}
 </div>
 
