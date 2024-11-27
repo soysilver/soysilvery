@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jeju Island"
+title: "Trip to Jeju Island"
 excerpt: "Trip to Jeju Island"
 image: "/assets/images/jeju1.JPG"
 ---
