@@ -10,6 +10,6 @@ I enjoy taking photos as way to capture moments in life. These are some of the p
 
 |<img src="../../../assets/images/jeju2.JPG" height=250px>|<img src="../../../assets/images/jeju3.JPG" height=250px>|<img src="../../../assets/images/jeju4.JPG" height=250px>|
 
-|<img src="../../../assets/images/jeju5.JPG" width="167" height="250" style="margin: -5px";>|<img src="../../../assets/images/jeju6.JPG" height=200px>|<img src="../../../assets/images/jeju7.JPG" height=200px>|
+|<img src="../../../assets/images/jeju5.JPG" width="167" height="250">|<img src="../../../assets/images/jeju6.JPG" height=200px>|<img src="../../../assets/images/jeju7.JPG" height=200px>|
 |:|:|:|
 |<img src="../../../assets/images/jeju8.JPG" height=200px>|<img src="../../../assets/images/jeju9.JPG" height=200px>|<img src="../../../assets/images/jeju10.JPG" height=200px>|
