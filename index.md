@@ -18,4 +18,3 @@ Before KIST, I earned my bachelor's degree in Computer Science and Engineering f
    
 ### Also, check out:
 - [My recent projects →](https://soysilver.github.io/soysilvery/projects/)
-- [The fun side of me →](https://soysilver.github.io/soysilvery/blog/)
