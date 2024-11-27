@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Meta-CPS
+title: Understanding the Expectations and Challenges of Generative AI in Drafting Webtoons
 description: description of the short project which is long enough
 ---
 
 
-H1 Header
+Abstract
 ============
 
 Paragraphs are separated by a blank line.
