@@ -6,6 +6,7 @@ layout: default
   {% for post in paginator.posts %}
     <h2><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
     <p>
+      {{post.excerpt | strip_html}}
       {% if post.image %}
         <img src="{{ post.image | prepend: site.baseurl }}" style="height: 250px;">
       {% endif %}
