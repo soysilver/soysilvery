@@ -2,7 +2,7 @@
 layout: post
 title: "Birdwatching"
 excerpt: "Check out the cool birds I've met along the way."
-image: "../assets/images/bird.jpg"
+image: "/assets/images/bird.jpg"
 ---
 
 I often go birding.\
