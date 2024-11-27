@@ -5,7 +5,7 @@ excerpt: "Trip to Jeju Island"
 image: "/assets/images/jeju1.JPG"
 ---
 
-I enjoy taking photos as way to capture moments in life. These are some of the photos I took while traveling to Jeju Island at summer of 2023.
+I enjoy taking photos as a way to capture moments in life. These are some of the photos I took while traveling to Jeju Island in summer of 2023.
 
 |:-:|:-:|:-:|
 |<img src="../../../assets/images/jeju2.JPG" height=200px>|<img src="../../../assets/images/jeju3.JPG" height=200px>|<img src="../../../assets/images/jeju4.JPG" height=200px>|
