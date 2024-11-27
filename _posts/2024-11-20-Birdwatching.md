@@ -5,8 +5,7 @@ excerpt: "Check out the cool birds I've met along the way!"
 image: "/assets/images/bird3.jpg"
 ---
 
-I often go birding.\
-Check out the cool birds I've met along the way.
+I often go birding. Check out the cool birds I've met along the way!
 
 
 |:-:|:-:|:-:|
