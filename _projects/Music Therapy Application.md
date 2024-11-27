@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meta-CPS
+title: Music Therapy Application
 description: description of the short project which is long enough
 ---
 
