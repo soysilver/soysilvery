@@ -26,8 +26,8 @@ Proposed Model Architecture
 Results
 ------------
 
-|          | Polynomial\ Fitting |MLP| Header 3 |CNN + MLP |MLP + Self\ Attention
-|:--------:|:--------------------------:|:--------:|
+|          | Polynomial\ Fitting |MLP| CNN + MLP |MLP + Self\ Attention|
+|:--------:|:--------------------------:|:--------:|:--------------------------:|:--------:|
 | MAE  | Data is longer than header | 1        |
 | Flow Rate MAE | add a cell                 |          |
 | Power MAE | ipsum                      | 3        |
