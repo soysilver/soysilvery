@@ -26,14 +26,13 @@ Proposed Model Architecture
 Results
 ------------
 
-|          | Polynomial\ Fitting |MLP| CNN + MLP |MLP + Self\ Attention|
-|:--------:|:--------------------------:|:--------:|:--------------------------:|:--------:|
-| MAE  | Data is longer than header | 1        |
+|          | Polynomial Fitting |MLP| CNN + MLP |MLP + Self Attention|
+|:---_----:|:-------:|:-------:|:-----__:|:--------:|
+|    MAE   | 75.1555 | 11.7533 | 11.6837 | 11.6079 |
 | Flow Rate MAE | add a cell                 |          |
 | Power MAE | ipsum                      | 3        |
 | Flow Rate (%)| empty outside cells        |          |
 | Power (%)|                            | 5        |
-| six      | Morbi purus                | 6        |
 
 
 
