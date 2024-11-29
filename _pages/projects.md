@@ -30,7 +30,7 @@ published: true
           <a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">
         	<div>
 			{% if project.image %}
-              			<img src ="{{project.image | prepend: site.baseurl}}" height="180">
+              			<img src ="{{project.image | prepend: site.baseurl}}">
 			{% endif %}
         		<h3>{{ project.title }}</h3><br/>
               		<!--<p>{{ project.description }}</p>-->
