@@ -16,9 +16,8 @@ Performance maps are a popular tool for analyzing and predicting the operating c
 Proposed Model Architecture
 ------------
 
-![MLP Only](https://soysilver.github.io/soysilvery/assets/images/mlpStandard.png)
+![MLP Only](https://soysilver.github.io/soysilvery/assets/images/Architecture.png)
 ![MLP + Self Attention](https://soysilver.github.io/soysilvery/assets/images/mlpAttention.png)
-![MLP + CNN](https://soysilver.github.io/soysilvery/assets/images/mlpCNN.png)
 
 
 
