@@ -16,7 +16,7 @@
   /* Minimum width of 200px and grow to fit available space */
   flex: 1 0 200px;
   border-radius: 15px;
-  background: $projectbox;
+  background: $background-color;
   @media (prefers-color-scheme: dark) {
     background: $projectbox-dark;
   }
