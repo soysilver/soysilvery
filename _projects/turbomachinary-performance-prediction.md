@@ -25,7 +25,7 @@ Proposed Model Architecture
 Results
 ------------
 
-|          | Polynomial Fitting |MLP| CNN + MLP |MLP + Self Attention|
+|          | Polynomial Fitting |MLP| CNN + MLP |Self Attention|
 |:--------:|:-------:|:-------:|:--------:|:-------:|
 |    MAE   | 75.1555 | 11.7533 | 11.6837 | 11.6079 |
 | Flow Rate MAE | 10.506 |3.8732 | 3.7618 | 3.7711 |
