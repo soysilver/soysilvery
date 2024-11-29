@@ -10,7 +10,7 @@ Predicting the Performance of Compressor/Blower Systems using AI
 ============
 
 Introduction:
-Performance maps are a popular tool for analyzing and predicting the operating characteristics of a turbine, such as efficiency, pressure ratio, and flow rate. They are critical to system evaluation because they provide insight into how a turbine performs under different operating conditions. By visually representing performance metrics through performance maps, users can identify the optimal operating range and run blowers accordingly in industrial applications. When blower performance maps rely solely on real-world data, they are often inefficient due to the limited number of data points, which prevents accurate comparisons and predictions. Therefore, it is common to use linear interpolation or curve fitting to make the data a little denser based on the acquired data. In this project, we created and presented a model to predict performance and compared the results with predictions using a linear regression curve. 
+Performance maps are a popular tool for analyzing and predicting the operating characteristics of a turbine, such as efficiency, pressure ratio, and flow rate. They are critical to system evaluation because they provide insight into how a turbine performs under different operating conditions. By visually representing performance metrics through performance maps, users can identify the optimal operating range and run blowers accordingly in industrial applications. When blower performance maps rely solely on real-world data, they are often inefficient due to the limited number of data points, which prevents accurate comparisons and predictions. Therefore, it is common to use linear interpolation or curve fitting to make the data a little denser based on the acquired data. In this project, we created and presented three model to predict performance and compared the results with predictions using a linear regression curve. 
 
 
 Proposed Model Architecture
@@ -20,81 +20,23 @@ Proposed Model Architecture
 ![MLP + Self Attention](https://soysilver.github.io/soysilvery/assets/images/mlpAttention.png)
 ![MLP + CNN](https://soysilver.github.io/soysilvery/assets/images/mlpCNN.png)
 
-Here's a numbered list:
 
- 1. first item
- 2. second item
- 3. third item
 
-Note again how the actual text starts at 4 columns in (4 characters
-from the left side). Here's a code sample:
 
-    # Let me re-iterate ...
-    for i in 1 .. 10 { do-something(i) }
+Results
+------------
 
-As you probably guessed, indented 4 spaces. By the way, instead of
-indenting the block, you can use delimited blocks, if you like:
-
-~~~
-define foobar() {
-    print "Welcome to flavor country!";
-}
-~~~
-
-(which makes copying & pasting easier). You can optionally mark the
-delimited block for Pandoc to syntax highlight it by specifying the languagae after the start of a block (e.g. `~~~python`) which would look like :
-
-~~~python
-import time
-# Quick, count to ten!
-for i in range(10):
-    # (but not *too* quick)
-    time.sleep(0.5)
-    print(i)
-~~~
-
-### An H3 header ###
-
-Now a nested list:
-
- 1. First, get these ingredients:
-
-      * carrots
-      * celery
-      * lentils
-
- 2. Boil some water.
-
- 3. Dump everything in the pot and follow
-    this algorithm:
-
-        find wooden spoon
-        uncover pot
-        stir
-        cover pot
-        balance wooden spoon precariously on pot handle
-        wait 10 minutes
-        goto first step (or shut off burner when done)
-
-    Do not bump wooden spoon or it will fall.
-
-Notice again how text always lines up on 4-space indents (including
-that last line which continues item 3 above).
-
-Here's a footnote [^1].
-
-[^1]: Some footnote text.
-
-Tables can look like this:
-
-| Header 1 | Header 2                   | Header 3 |
+|          | Polynomial\ Fitting |MLP| Header 3 |CNN + MLP |MLP + Self\ Attention
 |:--------:|:--------------------------:|:--------:|
-| data1a   | Data is longer than header | 1        |
-| d1b      | add a cell                 |          |
-| lorem    | ipsum                      | 3        |
-|          | empty outside cells        |          |
-| skip     |                            | 5        |
+| MAE  | Data is longer than header | 1        |
+| Flow Rate MAE | add a cell                 |          |
+| Power MAE | ipsum                      | 3        |
+| Flow Rate (%)| empty outside cells        |          |
+| Power (%)|                            | 5        |
 | six      | Morbi purus                | 6        |
+
+
+
 
 
 A horizontal rule follows.
