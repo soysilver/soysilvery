@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Turbomachinary Performance Prediction
+title: Turbo Performance Prediction
 description: Predicting the Performance of Compressor/Blower Systems using AI
 image: "/assets/images/mlpArch.png"
 ---
@@ -34,4 +34,13 @@ Results
 | Power (%)| 96.8410 | 99.5472 | 99.5479 | 99.5516 |
 
 Experiments showed that the proposed models outperformed the traditional polynomial method. 
-In addition, the models that reflect the relationships within a piece of data were more effective in training. 
+In addition, the models that reflect the relationships within a piece of data were more effective in training.
+
+
+Publications
+------------
+
+Korea Patent (). Under Review.(will be added at 12/3, 2024)
+
+[Yun-sok Ha, Jongyoung Kim, Soyeon Lee, and Yong-Bok Lee, “Research on Optimal Operation of Compressor utilizing Multi-Layer Perceptron and Polynomial Curve Fitting”, Korean Society for Fluid Machinery (Jul, 2024)](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11935183)
+[Soyeon Lee, Yun-sok Ha,Jongyoung Kim, and Yong-Bok Lee, “Predicting the Performance of Blower Systems using Multi-Layer-Perceptron(MLP) Architecture with Real Data”, Korean Society for Fluid Machinery (Dec, 2024)]() (will be added at 12/6, 2024)
