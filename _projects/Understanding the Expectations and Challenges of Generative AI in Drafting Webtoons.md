@@ -6,7 +6,7 @@ image: image
 ---
 
 
-description
+Understanding the Expectations and Challenges of Generative AI in Drafting Webtoons
 ============
 
 *This is a study that was recently rejected and is currently going through the resubmission process. The figures and details of the actual paper will be updated after it is published.*
