@@ -34,39 +34,5 @@ Results
 | Flow Rate (%)| 93.9665 | 97.8463 | 97.9082 |97.9030 |
 | Power (%)| 96.8410 | 99.5472 | 99.5479 | 99.5516 |
 
-
-
-
-
-A horizontal rule follows.
-
-***
-
-Here's a definition list:
-
-apples
-  : Good for making applesauce.
-
-oranges
-  : Citrus!
-
-tomatoes
-  : There's no "e" in tomatoe.
-
-Again, text is indented 4 spaces. (Put a blank line between each
-term and  its definition to spread things out more.)
-
-Here's a "line block" (note how whitespace is honored):
-
-| Line one
-|   Line too
-| Line tree
-
-and images can be specified like so:
-
-![example image](https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=300&h=300&fit=crop "An exemplary image")
-
-Inline math equation: $\omega = d\phi / dt$. Display
-math should get its own line like so:
-
-$$I = \int \rho R^{2} dV$$
+Experiments showed that the proposed models outperformed the traditional polynomial method. 
+In addition, the models that reflect the relationships within a piece of data were more effective in training. 
