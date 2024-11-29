@@ -36,12 +36,18 @@
 .projectTile a span {
   display: flex;
   justify-content: center;
+  color: $text-color ;
+  @media (prefers-color-scheme: dark) {
+    color: $text-color-dark;
+  }
 }
 
 .projectTile a span h2 {
   font-size: 1.5rem;
   padding: 1rem;
-  color: $projectbox-text;
+  @media (prefers-color-scheme: dark) {
+    color: $text-color-dark;
+  }
 }
 
 .projectTile:hover a span h2 {
