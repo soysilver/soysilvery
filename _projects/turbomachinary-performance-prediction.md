@@ -2,7 +2,7 @@
 layout: post
 title: Turbomachinary Performance Prediction
 description: Predicting the Performance of Compressor/Blower Systems using AI
-image: "/assets/images/mlpAttention.png"
+image: "/assets/images/mlpArch.png"
 ---
 
 
@@ -16,7 +16,9 @@ Performance maps are a popular tool for analyzing and predicting the operating c
 Proposed Model Architecture
 ------------
 
-[MLP + Self Attention](https://soysilver.github.io/soysilvery/assets/images/mlpAttention.png)
+![MLP Only](https://soysilver.github.io/soysilvery/assets/images/mlpStandard.png)
+![MLP + Self Attention](https://soysilver.github.io/soysilvery/assets/images/mlpAttention.png)
+![MLP + CNN](https://soysilver.github.io/soysilvery/assets/images/mlpCNN.png)
 
 Here's a numbered list:
 
