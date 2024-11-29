@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Understanding the Expectations and Challenges of Generative AI in Drafting Webtoons
-description: description of the short project which is long enough
+title: NMR Two Level GNN
+description: Understanding the Expectations and Challenges of Generative AI in Drafting Webtoons
+image: /assets/images/preparing.png
 ---
 
 
