@@ -2,6 +2,7 @@
 layout: post
 title: Turbomachinary Performance Prediction
 description: Predicting the Performance of Compressor/Blower Systems using AI
+image: "/assets/images/mlpAttention.png"
 ---
 
 
