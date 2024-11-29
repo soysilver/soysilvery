@@ -1,15 +1,16 @@
 ---
 layout: post
-title: Estimating Turbomachinary Performance using AI
+title: Turbomachinary Performance Prediction
 description: Predicting the Performance of Compressor/Blower Systems using AI
 ---
 
 
-H1 Header
+Predicting the Performance of Compressor/Blower Systems using AI
 ============
 
-Paragraphs are separated by a blank line.
+Motivation:
 
+회전기기는  
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
 look like:
 
