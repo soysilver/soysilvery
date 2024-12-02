@@ -1,40 +1,24 @@
 ---
 layout: post
 title: Meta-CPS
-description: description of the short project which is long enough
+description: Building CPS (Cyber-Physical Systems) for Prognostics and health management and simulation of turbomachinery with Unity 
 ---
 
 
-H1 Header
+Building CPS for Prognostics and health management and simulation of turbomachinery with Unity 
 ============
 
-Paragraphs are separated by a blank line.
-
-2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
-look like:
-
-  * this one
-  * that one
-  * the other one
-
-Note that the actual text
-content starts at 4-columns in.
-
-> Block quotes are
-> written like so.
->
-> They can span multiple paragraphs,
-> if you like.
-
+이 프로젝트는 대한민국의 정부 과제의 일환으로 진행되었다. Meta-CPS는 압축기 시스템 상태 모니터링 및 엔지니어링 데이터 해석 툴
+M&V(Measurement and Verification) 기법을 통해 운영 최적 효율을 예측하고, 건전성 예측 및 관리를 위한 이상 상태 진단 기능을 포함한 모니터링 프로그램
 
 H2 Header
 ------------
 
-Here's a numbered list:
+My Contributions Are:
 
- 1. first item
- 2. second item
- 3. third item
+- Added ISO 10816-3-based vibration monitoring function
+- Sohre's Chart-based condition diagnosis function
+- Added AI-based performance map to calculate the optimal operation combination for group-operated compressors
 
 Note again how the actual text starts at 4 columns in (4 characters
 from the left side). Here's a code sample:
