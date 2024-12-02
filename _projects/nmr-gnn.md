@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NMR Two Level GNN(2024)
+title: NMR Two Level GNN (2024)
 description: Understanding the Expectations and Challenges of Generative AI in Drafting Webtoons
 image: /assets/images/preparing.png
 ---
