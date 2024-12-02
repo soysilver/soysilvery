@@ -9,14 +9,13 @@ image: "/assets/images/mlpArch.png"
 Predicting the Performance of Compressor/Blower Systems using AI
 ============
 
-Introduction:
-Performance maps are a popular tool for analyzing and predicting the operating characteristics of a turbine, such as efficiency, pressure ratio, and flow rate. They are critical to system evaluation because they provide insight into how a turbine performs under different operating conditions. By visually representing performance metrics through performance maps, users can identify the optimal operating range and run blowers accordingly in industrial applications. When blower performance maps rely solely on real-world data, they are often inefficient due to the limited number of data points, which prevents accurate comparisons and predictions. Therefore, it is common to use linear interpolation or curve fitting to make the data a little denser based on the acquired data. In this project, we created and presented three model to predict performance and compared the results with predictions using a linear regression curve. 
+Performance maps are a popular tool for analyzing and predicting the operating characteristics of a turbine, such as efficiency, pressure ratio, and flow rate. They are critical to system evaluation because they provide insight into how a turbine performs under different operating conditions. By visually representing performance metrics through performance maps, users can identify the optimal operating range and run blowers accordingly in industrial applications. When blower performance maps rely solely on real-world data, they are often inefficient due to the limited number of data points, which prevents accurate comparisons and predictions. Therefore, it is common to use linear interpolation or curve fitting to make the data a little denser based on the acquired data. In this project, we created and presented three AI models to predict performance and compared the results with predictions using a linear regression curve. 
 
 
 Proposed Model Architecture
 ------------
 
-Developed 3 AI architectures
+Developed 3 backpropagation neural network architectures
 
 ![MLP Only](https://soysilver.github.io/soysilvery/assets/images/Architecture.png)
 ![MLP + Self Attention](https://soysilver.github.io/soysilvery/assets/images/mlpAttention.png)
