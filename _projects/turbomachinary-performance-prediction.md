@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Turbo Performance Prediction
+title: Turbo Performance Prediction(2024)
 description: Predicting the Performance of Compressor/Blower Systems using AI
 image: "/assets/images/mlpArch.png"
 ---
