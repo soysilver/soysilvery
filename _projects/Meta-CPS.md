@@ -16,9 +16,9 @@ H2 Header
 
 My Contributions Are:
 
-- Added ISO 10816-3-based vibration monitoring function
+- ISO 10816-3-based vibration monitoring function
 - Sohre's Chart-based condition diagnosis function
-- Added AI-based performance map to calculate the optimal operation combination for group-operated compressors
+- AI-based performance map to calculate the optimal operation combination for group-operated compressors
 
 Note again how the actual text starts at 4 columns in (4 characters
 from the left side). Here's a code sample:
