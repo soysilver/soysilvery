@@ -41,8 +41,6 @@ In addition, the models that reflect the relationships within a piece of data we
 Publications
 ------------
 
-Korea Patent (). Under Review.(will be added at 12/3, 2024)
-
 [Yun-sok Ha, Jongyoung Kim, Soyeon Lee, and Yong-Bok Lee, “Research on Optimal Operation of Compressor utilizing Multi-Layer Perceptron and Polynomial Curve Fitting”, Korean Society for Fluid Machinery (Jul, 2024)](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11935183)
 <br>
 

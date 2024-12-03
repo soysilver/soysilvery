@@ -21,3 +21,7 @@ My Contributions Are:
 - Sohre's Chart-based condition diagnosis function
 - AI-based performance map to calculate the optimal operation combination for group-operated compressors
 
+Publications
+------------
+
+Yong-Bok Lee, Yun-sok Ha, Jongyoung Kim, Soyeon Lee, "MEHTOD FOR OPTIMIZING THE OPERATING CONDTIONS OF A FLUID MACHINERY GROUP" Korea Patent (10-2024-0176651). Under Review.(will be added at 12/3, 2024)
