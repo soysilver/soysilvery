@@ -18,7 +18,7 @@ Background
 
 Motivation
 ------------
-This project was conducted as part of ***Ewha Womans University's 17th Challenge Semester Program***, which allows undergraduate students to pursue projects of their choice. The project is based on ***Xing Ai's paper [Two-Level Graph Neural Network (TL-GNN)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9714153),*** published in 2022.  They worked on enhancing the feature extraction capabilities of GNNs by focusing on counting the number of occurrences of different subgraphs within the graph structure, which we found impressive and wanted to use for NMR signal prediction. 
+This project was conducted as part of ***Ewha Womans University's 17th Challenge Semester Program***, which allows undergraduate students to pursue projects of their choice. The project is based on ***[Xing Ai's paper Two-Level Graph Neural Network (TL-GNN)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9714153),*** published in 2022.  They worked on enhancing the feature extraction capabilities of GNNs by focusing on counting the number of occurrences of different subgraphs within the graph structure, which we found impressive and wanted to use for NMR signal prediction. 
 
 The approach of using partial graphs can be useful for recognizing and analyzing these specific chemical patterns within a molecule. Each functional group can be represented as a partial graph by itself, which can help predict chemical properties through structural comparisons between molecules with the same or similar functional groups.
 
