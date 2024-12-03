@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Music Therapy Application (2023)
+title: 2023) Music Therapy Application
 description: description of the short project which is long enough
 ---
 
