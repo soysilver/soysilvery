@@ -1,14 +1,15 @@
 ---
 layout: post
 title: 2023) Music Therapy Application
-description: description of the short project which is long enough
-image: /assets/images/Musicth.png
+description: Music therapy application for Parkinson's patients
+image: /assets/images/musicDrum.png
 
 ---
 
 
-H1 Header
+Music therapy application for Parkinson's patients
 ============
+
 
 Paragraphs are separated by a blank line.
 
@@ -21,6 +22,9 @@ look like:
 
 Note that the actual text
 content starts at 4-columns in.
+
+![App UI]((https://soysilver.github.io/soysilvery/assets/images/musicDrum.png)
+
 
 > Block quotes are
 > written like so.
