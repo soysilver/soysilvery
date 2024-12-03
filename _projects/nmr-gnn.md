@@ -2,7 +2,7 @@
 layout: post
 title: NMR Signal Prediction (2024)
 description: Nuclear Magnetic Resonance Spectroscopy Signal Prediction with Two Level GNNs 
-image: /assets/images/NMR.png
+image: /assets/images/NMRHead.png
 ---
 
 
