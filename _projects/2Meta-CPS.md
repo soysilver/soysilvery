@@ -12,15 +12,18 @@ CPS-Compressor is a web data parsing-based compressor system health monitoring a
 
 *This is an ongoing project, so we can't disclose too many details. I'll do my best to explain as much as I can. *
 
+![MLP + Self Attention](https://soysilver.github.io/soysilvery/assets/images/m-cps.png)
+
 Optimizing Group Operations of Blowers
 ------------
-
+산업 현장에서 원하는 유량을 만들어내기 위해 여러 대의 송풍기(내비는 압축기)를 사용하는 경우가 많다. 이때 송풍기별 세부 성능이 다르므로, 효율적인 송풍기를  
 
 My Contributions Are:
 
 - ISO 10816-3-based vibration monitoring function
 - Sohre's Chart-based condition diagnosis function
 - AI-based performance map to calculate the optimal operation combination for group-operated compressors
+- TCP communication-driven database processing system
 
 Publications
 ------------
