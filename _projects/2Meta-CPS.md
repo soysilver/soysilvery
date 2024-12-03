@@ -10,7 +10,7 @@ Building CPS for Prognostics and health management and simulation of turbomachin
 ============
 CPS-Compressor is a web data parsing-based compressor system health monitoring and engineering data interpretation tool.  The project is part of a government assignment in Korea to develop a platform technology and operation management system for the condition diagnosis of variable fluid equipment design, and it predicts the optimal efficiency of operation through measurement and verification (M&V) techniques and performs monitoring including abnormal condition diagnosis for health prediction and management. 
 
-*This is an ongoing project, so we can't disclose too many details. I'll do my best to explain as much as I am allowed. *
+*This is an ongoing project, so we can't disclose too many details. I'll do my best to explain as much as I am allowed.*
 
 ![MLP + Self Attention](https://soysilver.github.io/soysilvery/assets/images/m-cps.png)
 
@@ -30,7 +30,6 @@ It also displays real-time data and provides several health diagnostic tools.
 Publications
 ------------
 
-***Patents*** : Yong-Bok Lee, Yun-sok Ha, Jongyoung Kim, Soyeon Lee, "MEHTOD FOR OPTIMIZING THE OPERATING CONDTIONS OF A FLUID MACHINERY GROUP" Korea Patent (10-2024-0176651), *Pending* 
-(Filling out the documents, will be added during the first week of Dec, 2024) 
+***Patents*** : Yong-Bok Lee, Yun-sok Ha, Jongyoung Kim, Soyeon Lee, "MEHTOD FOR OPTIMIZING THE OPERATING CONDTIONS OF A FLUID MACHINERY GROUP" Korea Patent (Filling out the documents, will be added during the first week of Dec, 2024) 
 
 ***Software*** : Yongbok Lee, Yunseok Ha, Jongyeong Kim, Soyeon Lee "CPS-Compressor(ver.2.0)", Korea Copyright (2024-060101). Under Review(2024).
