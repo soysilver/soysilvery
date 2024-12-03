@@ -2,6 +2,8 @@
 layout: post
 title: 2023) Music Therapy Application
 description: description of the short project which is long enough
+image: /assets/images/Musicth.png
+
 ---
 
 
