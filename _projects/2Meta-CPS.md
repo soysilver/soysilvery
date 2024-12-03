@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meta-CPS (2024)
+title: 2024) Meta-CPS
 description: Building CPS (Cyber-Physical Systems) for Prognostics and health management and simulation of turbomachinery with Unity 
 image: /assets/images/m-cps.png
 ---
