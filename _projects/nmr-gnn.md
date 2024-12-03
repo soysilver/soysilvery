@@ -23,6 +23,8 @@ The approach of using partial graphs can be useful for recognizing and analyzing
 ![functional groups](https://soysilver.github.io/soysilvery/assets/images/funcGroup.gif "functional groups")
 ##### photo ref: James Ashenhurst, "Meet the (Most Important) Functional Groups", Master Organic Chemistry
 
+Noting the advantages of these partial graphs in chemistry, we hypothesized that training on TL-GNNs would improve performance in using partial graphs.
+
 !2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
 look like:
 
