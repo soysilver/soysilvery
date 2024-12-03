@@ -20,12 +20,12 @@ Many industrial settings use multiple blowers (or compressors) to create the des
 
 It also displays real-time data and provides several health diagnostic tools. 
 
-My Contributions Are:
+**My Contributions Are:**
 
-- ISO 10816-3-based vibration monitoring function
-- Sohre's Chart-based condition diagnosis function
 - AI-based performance map to calculate the optimal operation combination for group-operated compressors
 - TCP communication-driven database processing system
+- ISO 10816-3-based vibration monitoring function
+- Sohre's Chart-based condition diagnosis function
 
 Publications
 ------------
