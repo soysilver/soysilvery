@@ -32,4 +32,4 @@ Publications
 
 ***Patents*** : Yong-Bok Lee, Yun-sok Ha, Jongyoung Kim, Soyeon Lee, "MEHTOD FOR OPTIMIZING THE OPERATING CONDTIONS OF A FLUID MACHINERY GROUP" Korea Patent (Filling out the documents, will be added during the first week of Dec, 2024) 
 
-***Software*** : Yongbok Lee, Yunseok Ha, Jongyeong Kim, Soyeon Lee "CPS-Compressor(ver.2.0)", Korea Copyright (2024-060101). Under Review(2024).
+***Software*** : Yongbok Lee, Yunseok Ha, Jongyeong Kim, Soyeon Lee "CPS-Compressor(Cyber-Physical System-Compressor)(ver.2.0)", Korea Copyright(C-2024-049956)
