@@ -16,7 +16,10 @@ Nuclear Magnetic Resonance Spectroscopy Signal Prediction with Two Level GNNs
  NMR is divided into 1H NMR and 13C NMR depending on the type of target atom that is the center of the reconstruction. 1H NMR uses the chemical mobility of a hydrogen nucleus, or one lone proton, to determine the number of hydrogen atoms in a molecule, how they are bonded, and their ionization state. It is a common method for determining the structure of organic matter because the major atoms in organic compounds, such as carbon and oxygen, bond with the most common and lightest form of 1H hydrogen to form an octet of electrons. 13C NMR analyzes the chemical shifts of the carbon nucleus, which is composed of six protons and seven neutrons. Since the definition of an organic compound is a compound with a carbon atom as its backbone, 13C NMR is often used to determine the structure of complex molecules. 1H NMR has the advantage of high sensitivity and relatively quick results with a small sample volume. In contrast, 13C NMR is less sensitive and requires a large amount of sample, but it is relatively stable and accurate.
 
 
-This project was conducted as part of ***Ewha Womans University's 17th Challenge Semester Program***, which allows undergraduate students to pursue projects of their choice. The project is based on Xing Ai's thesis [Two-Level Graph Neural Network (TL-GNN)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9714153), published in 2022. 
+This project was conducted as part of ***Ewha Womans University's 17th Challenge Semester Program***, which allows undergraduate students to pursue projects of their choice. The project is based on ***Xing Ai's paper [Two-Level Graph Neural Network (TL-GNN)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9714153),*** published in 2022.  They worked on enhancing the feature extraction capabilities of GNNs by focusing on counting the number of occurrences of different subgraphs within the graph structure, which we found impressive and wanted to use for NMR signal prediction. 
+
+
+
 !2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
 look like:
 
