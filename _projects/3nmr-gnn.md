@@ -23,7 +23,7 @@ This project was conducted as part of ***Ewha Womans University's 17th Challenge
 The approach of using partial graphs can be useful for recognizing and analyzing these specific chemical patterns within a molecule. Each functional group can be represented as a partial graph by itself, which can help predict chemical properties through structural comparisons between molecules with the same or similar functional groups.
 
 ![functional groups](https://soysilver.github.io/soysilvery/assets/images/funcGroup.gif "functional groups")
-##### photo ref: James Ashenhurst, "Meet the (Most Important) Functional Groups", Master Organic Chemistry
+##### [photo ref: James Ashenhurst, "Meet the (Most Important) Functional Groups", Master Organic Chemistry](https://www.masterorganicchemistry.com/2010/10/06/functional-groups-organic-chemistry/)
 
 Noting the advantages of these partial graphs in chemistry, we hypothesized that training on TL-GNNs would improve performance in using partial graphs.
 
