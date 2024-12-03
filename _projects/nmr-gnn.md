@@ -31,6 +31,5 @@ Noting the advantages of these partial graphs in chemistry, we hypothesized that
 Results  & feedback
 ------------
 Experimental results showed that training with an epoch size of 10 resulted in a **Mean Absolute Error (MAE) of 46.588057388595445, which is relatively high compared to other NMR errors**. Therefore, we plan to re-experiment with the following feedback. 
-  * this one
-  * that one
-  * the other one
+  * Improve partial graph logic: Modify the current method of generating partial graphs, which only considers the number of nodes, to generate partial graphs that consider a sample of functional groups in organisms.
+  * Secure learning resources: Secure resources that can be accessed continuously for longer learning time.
