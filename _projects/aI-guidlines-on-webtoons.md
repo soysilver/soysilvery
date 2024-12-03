@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AI Guidlines on Webtoons (2023) 
+title: 2024) AI Guidlines on Webtoons
 description: Understanding the Expectations and Challenges of Generative AI in Drafting Webtoons
 image: /assets/images/preparing.png
 ---
