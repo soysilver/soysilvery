@@ -16,7 +16,8 @@ CPS-Compressor is a web data parsing-based compressor system health monitoring a
 
 Optimizing Group Operations of Blowers
 ------------
-산업 현장에서 원하는 유량을 만들어내기 위해 여러 대의 송풍기(내비는 압축기)를 사용하는 경우가 많다. 이때 송풍기별 세부 성능이 다르므로, 효율적인 송풍기를  
+산업 현장에서 원하는 유량을 만들어내기 위해 여러 대의 송풍기(내비는 압축기)를 사용하는 경우가 많다. 이때 송풍기별 세부 성능이 다르므로, 효율적인 송풍기들을 선별하여 구동하는 것이 에너지를 절감할 수 있다. 이 연구는 인공지능을 통해 송풍기의 성능을 예측한 뒤 
+또한 
 
 My Contributions Are:
 
