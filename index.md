@@ -19,11 +19,6 @@ Before KIST, I earned my bachelor's degree in Computer Science and Engineering f
 ### Also, check out:
 - [My recent projects →](https://soysilver.github.io/soysilvery/projects/){:target="_blank"}
 
-![Predicting Turbo Performance](<a href="{{site.baseurl}}/assets/images/mlpArch.png">)) [Predicting Turbo Performance]({{site.baseurl}}/projects/1turbo-prediction/) | ![Meta-CPS]({{site.baseurl}}/assets/images/m-cps.png) [Meta-CPS]({{site.baseurl}}/projects/2meta-cps/) |
-|:-------------------------------------------------------------------------:|:-------------------------------------------------------------------------:|
-| [Predicting Turbo Performance]({{site.baseurl}}/projects/1turbo-prediction/) | [Meta-CPS]({{site.baseurl}}/projects/2meta-cps/) |
-
-
-| <a href="{{site.baseurl}}/projects/1turbo-prediction/"><img src="{{site.baseurl}}/assets/images/mlpArch.png" alt="Image 1" width="100"></a> | <a href="{{site.baseurl}}/projects/2meta-cps/"><img src="{{site.baseurl}}/assets/images/m-cps.png" alt="Image 2" width="100"></a> | 
+| <a href="{{site.baseurl}}/projects/1turbo-prediction/"><img src="{{site.baseurl}}/assets/images/mlpArch.png" alt="Predicting Turbo Performance" width="100"></a> | <a href="{{site.baseurl}}/projects/2meta-cps/"><img src="{{site.baseurl}}/assets/images/m-cps.png" alt="Meta-CPS" width="100"></a> | 
 |:-------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|
 | [Predicting Turbo Performance]({{site.baseurl}}/projects/1turbo-prediction/) | [Meta-CPS]({{site.baseurl}}/projects/2meta-cps/) |
