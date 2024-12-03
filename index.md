@@ -16,7 +16,7 @@ Before KIST, I earned my bachelor's degree in Computer Science and Engineering f
 - Optimization : I use optimization in various aspects such as power consumption, computation time, etc. to solve problems in computer science and more.
 
    
-### Also, check out my recent projects 
-| <a href="{{site.baseurl}}/projects/1turbo-prediction/"><img src="{{site.baseurl}}/assets/images/mlpArch.png" alt="Predicting Turbo Performance" width="200"></a> | <a href="{{site.baseurl}}/projects/2meta-cps/"><img src="{{site.baseurl}}/assets/images/m-cps.png" alt="Meta-CPS" width="400"></a> | <a href="{{site.baseurl}}/projects/">More →</a>|
+### Recent Projects 
+| <a href="{{site.baseurl}}/projects/1turbo-prediction/"><img src="{{site.baseurl}}/assets/images/mlpArch.png" alt="Predicting Turbo Performance" width="400"></a> | <a href="{{site.baseurl}}/projects/2meta-cps/"><img src="{{site.baseurl}}/assets/images/m-cps.png" alt="Meta-CPS" width="400"></a> | <a href="{{site.baseurl}}/projects/">More →</a>|
 |:---:|:---:|:---:|
 |[Predicting Turbo Performance]({{site.baseurl}}/projects/1turbo-prediction/) | [Meta-CPS]({{site.baseurl}}/projects/2meta-cps/) | &nbsp; |
