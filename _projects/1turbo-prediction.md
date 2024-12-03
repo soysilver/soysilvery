@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024) Turbomachinery Prediction
+title: 2024) Turbomachine Prediction
 description: Predicting the Performance of Compressor/Blower Systems using AI
 image: "/assets/images/mlpArch.png"
 ---
