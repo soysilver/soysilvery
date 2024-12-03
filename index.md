@@ -15,9 +15,9 @@ Before KIST, I earned my bachelor's degree in Computer Science and Engineering f
 - Computer Architecture and Systems : I am interested in AI accelerators such as GPUs and NPUs, as well as building reliable systems for next-generation processors.   
 - Optimization : I use optimization in various aspects such as power consumption, computation time, etc. to solve problems in computer science and more.
 
-   
-### Recent Projects 
 -------------------
+### Recent Projects 
+
 | <a href="{{site.baseurl}}/projects/1turbo-prediction/"><img src="{{site.baseurl}}/assets/images/mlpArch.png" alt="Predicting Turbo Performance" width="300"></a> | <a href="{{site.baseurl}}/projects/2meta-cps/"><img src="{{site.baseurl}}/assets/images/m-cps.png" alt="Meta-CPS" width="300"></a> | <a href="{{site.baseurl}}/projects/">More →</a> |
 |:---:|:---:|:---:|
 |[Predicting Turbo Performance]({{site.baseurl}}/projects/1turbo-prediction/) | [Meta-CPS]({{site.baseurl}}/projects/2meta-cps/) | <br> |
