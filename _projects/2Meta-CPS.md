@@ -8,7 +8,7 @@ image: /assets/images/m-cps.png
 
 Building CPS for Prognostics and health management and simulation of turbomachinery with Unity 
 ============
-CPS-Compressor is a web data parsing-based compressor system health monitoring and engineering data interpretation tool.  The project is part of a government assignment in Korea to develop a platform technology and operation management system for the condition diagnosis of variable fluid equipment design, and it predicts the optimal efficiency of operation through measurement and verification (M&V) techniques and performs monitoring including abnormal condition diagnosis for health prediction and management. 
+CPS-Compressor is a web data parsing-based compressor system health monitoring and engineering data interpretation tool. The Meta-CPS project is part of a government assignment in Korea to develop a platform technology and operation management system for the condition diagnosis of variable fluid equipment design, and it predicts the optimal efficiency of operation through measurement and verification (M&V) techniques and performs monitoring including abnormal condition diagnosis for health prediction and management. 
 
 | *This is an ongoing project, so we can't disclose too many details. I'll do my best to explain as much as I am allowed.*
 
