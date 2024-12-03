@@ -24,4 +24,5 @@ My Contributions Are:
 Publications
 ------------
 
-Yong-Bok Lee, Yun-sok Ha, Jongyoung Kim, Soyeon Lee, "MEHTOD FOR OPTIMIZING THE OPERATING CONDTIONS OF A FLUID MACHINERY GROUP" Korea Patent (10-2024-0176651). Under Review.(will be added at 12/3, 2024)
+Yong-Bok Lee, Yun-sok Ha, Jongyoung Kim, Soyeon Lee, "MEHTOD FOR OPTIMIZING THE OPERATING CONDTIONS OF A FLUID MACHINERY GROUP" Korea Patent (10-2024-0176651), **Pending** 
+(Filling out the documents, will be added during the first week of Dec, 2024)
