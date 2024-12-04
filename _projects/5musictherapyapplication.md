@@ -19,10 +19,10 @@ Based on the music therapy presented in the above paper, we collaborated with th
 
 ![App UI](https://soysilver.github.io/soysilvery/assets/images/musicDrum.png)
 
-- UI design: Creating an elderly patient-friendly interface with accessibility in mind
+- UI design: An elderly patient-friendly interface with accessibility in mind
 - Feature: Provide rhythm cues, record response rate
 
-
+This was the first project I participated in shortly after joining as a research intern in my junior year. I was involved as a research developer. 
 
 
 Here's a numbered list:
