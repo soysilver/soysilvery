@@ -23,7 +23,7 @@ look like:
 Note that the actual text
 content starts at 4-columns in.
 
-![App UI]((https://soysilver.github.io/soysilvery/assets/images/musicDrum.png)
+![App UI]s(https://soysilver.github.io/soysilvery/assets/images/musicDrum.png)
 
 
 > Block quotes are
