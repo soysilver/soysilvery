@@ -9,9 +9,10 @@ image: /assets/images/musicDrum.png
 
 Music therapy application for Parkinson's patients
 ============
+This research was a collaborative project between the Human-Computer Interaction Lab in the Computer Science and Engineering Department and the Music Therapy Education Department at Ewha Womans University. The goal was to develop an application enabling patients with dyskinesia to receive music therapy in a non-face-to-face setting. 
 
-
-Paragraphs are separated by a blank line.
+Patients with dyskinesia have a slow response time to stimuli. When responding to rhythm, the gap between the onset of the sound and the actual response time is larger than that of normal people. In 2020, Jin-Kyung Park from Ewha Womans University proposed [rhythmic cue-based percussion music therapy](https://www.dbpia.co.kr/journal/detail?nodeId=T15474828)
+ to improve these symptoms.
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
 look like:
