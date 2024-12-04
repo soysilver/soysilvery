@@ -11,12 +11,11 @@ Music therapy application for Parkinson's patients
 ============
 This research was a collaborative project between the Human-Computer Interaction Lab in the Computer Science and Engineering Department and the Music Therapy Education Department at Ewha Womans University. The goal was to develop an application enabling patients with dyskinesia to receive music therapy in a non-face-to-face setting. 
 
-Patients with dyskinesia have a slow response time to stimuli. When responding to rhythm, the gap between the onset of the sound and the actual response time is larger than that of normal people. In 2020, Jin-Kyung Park from Ewha Womans University proposed [rhythmic cue-based percussion music therapy](https://www.dbpia.co.kr/journal/detail?nodeId=T15474828) to improve these symptoms. Due to the nature of dyskinesias, in-person therapy was limited due to mobility difficulties, a problem that was maximized by the 2020 pandemic and needed to be overcome through application development.
+Patients with dyskinesia have a slow response time to stimuli. When responding to rhythm, the gap between the onset of the sound and the actual response time is larger than that of normal people. In 2020, Jin-Kyoung Park from Ewha Womans University proposed a [rhythmic cue-based percussion music therapy](https://pubmed.ncbi.nlm.nih.gov/34639396/) to improve these symptoms. Due to the nature of dyskinesias, in-person therapy was limited due to mobility difficulties, a problem that was maximized by the 2020 pandemic and needed to be overcome through application development.
 
-Based on the music therapy presented in the paper above, we developed an application to run music therapy. The app is designed to make rhythmic therapy more accessible to patients.
+Based on the music therapy presented in the above paper, we collaborated with the author of the paper and the lab she was in to develop an application to implement music therapy. The app is designed to make rhythmic therapy more accessible to patients.
 
 ![App UI](https://soysilver.github.io/soysilvery/assets/images/musicDrum.png)
-
 
 > Block quotes are
 > written like so.
