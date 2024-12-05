@@ -9,7 +9,7 @@ image: /assets/images/NMRHead.png
 Nuclear Magnetic Resonance Spectroscopy Signal Prediction with Two Level GNNs 
 ============
 
-Background
+NMR
 ------------
  NMR(Nuclear Magnetic Resonance) is the primary method used to estimate the properties of unknown molecules, and NMR machines are now one of the most commonly used instruments in organic chemistry laboratories. NMR spectroscopy takes advantage of the fact that the nuclear magnetic moment of each atom, which is the specific frequency of electromagnetic waves that it absorbs and emits when exposed to an external magnetic field, varies slightly depending on the environment around the atom. This information can then be used to reconstruct the environment around the atom, ultimately revealing the molecule of interest. 
 ![NMR image](https://soysilver.github.io/soysilvery/assets/images/NMR.png "NMR image of bipheny")
