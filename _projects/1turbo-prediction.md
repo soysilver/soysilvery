@@ -44,4 +44,4 @@ Publications
 [Yun-sok Ha, Jongyoung Kim, Soyeon Lee, and Yong-Bok Lee, “Research on Optimal Operation of Compressor utilizing Multi-Layer Perceptron and Polynomial Curve Fitting”, Korean Society for Fluid Machinery (Jul, 2024)](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11935183)
 <br>
 
-[Soyeon Lee, Yun-sok Ha,Jongyoung Kim, and Yong-Bok Lee, “Predicting the Performance of Blower Systems using Multi-Layer-Perceptron(MLP) Architecture with Real Data”, Korean Society for Fluid Machinery (Dec, 2024)]() (will be added after 12/6, 2024)
+[Soyeon Lee, Yun-sok Ha,Jongyoung Kim, and Yong-Bok Lee, “Predicting the Performance of Blower Systems using Multi-Layer-Perceptron(MLP) Architecture with Real Data”, Korean Society for Fluid Machinery (Dec, 2024)]()
