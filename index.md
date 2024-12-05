@@ -18,6 +18,6 @@ Before KIST, I earned my bachelor's degree in Computer Science and Engineering f
 -------------------
 ### Recent Projects 
 
-| <a href="{{site.baseurl}}/projects/1turbo-prediction/"><img src="{{site.baseurl}}/assets/images/mlpArch.png" alt="Predicting Turbo Performance" width="300"></a> | <a href="{{site.baseurl}}/projects/2meta-cps/"><img src="{{site.baseurl}}/assets/images/m-cps.png" alt="Meta-CPS" width="300"></a> | <a href="{{site.baseurl}}/projects/">  ****More <br> ****→ </a> |
+| <a href="{{site.baseurl}}/projects/1turbo-prediction/"><img src="{{site.baseurl}}/assets/images/mlpArch.png" alt="Predicting Turbo Performance" width="300"></a> | <a href="{{site.baseurl}}/projects/2meta-cps/"><img src="{{site.baseurl}}/assets/images/m-cps.png" alt="Meta-CPS" width="300"></a> | <a href="{{site.baseurl}}/projects/">  &nbsp; &nbsp; More <br> &nbsp; &nbsp; → </a> |
 |:---:|:---:|:---:|
 |[Predicting Turbo Performance]({{site.baseurl}}/projects/1turbo-prediction/) | [Meta-CPS]({{site.baseurl}}/projects/2meta-cps/) | <br> |
