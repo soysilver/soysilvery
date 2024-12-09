@@ -5,7 +5,7 @@ description: Music therapy application for Parkinson's patients
 image: /assets/images/musicDrum.png
 
 ---
-
+*(2022.11 - 2023.03)*
 
 Music therapy application for Parkinson's patients
 ============
