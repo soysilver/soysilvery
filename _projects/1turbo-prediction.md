@@ -4,7 +4,7 @@ title: 2024) Predicting Turbo Performance
 description: Predicting the Performance of Compressor/Blower Systems using AI
 image: "/assets/images/mlpArch.png"
 ---
-
+(2024.02 - 2024.12)
 
 Predicting the Performance of Compressor/Blower Systems using AI
 ============
