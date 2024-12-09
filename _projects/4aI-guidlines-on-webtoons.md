@@ -5,6 +5,7 @@ description: Understanding the Expectations and Challenges of Generative AI in D
 image: /assets/images/preparing.png
 ---
 
+(2023.02 - 2023.09)
 
 Understanding the Expectations and Challenges of Generative AI in Drafting Webtoons
 ============
