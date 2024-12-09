@@ -5,6 +5,7 @@ description: Nuclear Magnetic Resonance Spectroscopy Signal Prediction with Two 
 image: /assets/images/NMRHead.png
 ---
 
+*(2024.02 - Ongoing)*
 
 Nuclear Magnetic Resonance Spectroscopy Signal Prediction with Two Level GNNs 
 ============
