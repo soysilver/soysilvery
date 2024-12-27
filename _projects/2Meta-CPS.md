@@ -28,6 +28,6 @@ It also displays real-time data and provides several health diagnostic tools.
 Publications
 ------------
 
-***Patents*** : Yong-Bok Lee, Yun-sok Ha, Jongyoung Kim, Soyeon Lee, "MEHTOD FOR OPTIMIZING THE OPERATING CONDTIONS OF A FLUID MACHINERY GROUP" Korea Patent (Filling out the documents, will be added during the first week of Dec, 2024) 
+***Patents*** : Yongbok Lee, Yunseok Ha, Jongyeong Kim, and Soyeon Lee " Method for Optimizing the Operating Conditions of a Fluid Machinery Group ", Korea Patent (10-2024-0176651), *Pending*
 
 ***Software*** : Yongbok Lee, Yunseok Ha, Jongyeong Kim, Soyeon Lee "CPS-Compressor(Cyber-Physical System-Compressor)(ver.2.0)", Korea Copyright(C-2024-049956)
