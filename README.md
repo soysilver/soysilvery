@@ -26,3 +26,4 @@ Check out the [Wiki](https://github.com/jitinnair1/gradfolio/wiki) for some tips
 
 
 PS: If you liked the theme, do star :star: it! Thanks!
+
