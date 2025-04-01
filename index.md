@@ -12,7 +12,7 @@ Hello! I am a researcher working at the [Korea Institute of Science and Technolo
 Before KIST, I earned my bachelor's degree in Computer Science and Engineering from [Ewha Womans University](https://www.ewha.ac.kr/ewhaen/index.do){:target="_blank"}, along with a minor in Chemistry & Nanoscience. I also worked as an undergraduate research assistant at [HCILab@EWHA](https://hcil-ewha.github.io/homepage/){:target="_blank"} and as an intern developer at [Blue Solutions](http://www.bluechain.kr/main#){:target="_blank"}, a South Korean startup that develops system software.
 
 ### Research Interests:
-- Computer Architecture and Systems : I am interested in AI accelerators such as GPUs and NPUs, as well as building reliable systems for next-generation processors.   
+- Computer Architecture and Systems : I am interested in AI accelerators such as GPUs and NPUs, as well as building reliable systems for next-generation processors.   :)
 - Optimization : I optimize systems in various aspects such as power consumption, computation time, etc. to solve problems in computer science and more.
 
 -------------------
