@@ -2,7 +2,7 @@
 layout: post
 title: 2023) AI Guidlines on Webtoons
 description: Understanding the Expectations and Challenges of Generative AI in Drafting Webtoons
-image: /assets/images/preparing.png
+image: /assets/images/figure2.png
 ---
 
 *(2023.02 - 2023.09)*
@@ -10,6 +10,4 @@ image: /assets/images/preparing.png
 Understanding the Expectations and Challenges of Generative AI in Drafting Webtoons
 ============
 
-*This is a study that was recently rejected and is currently going through the resubmission process. The figures and details of the actual paper will be updated after it is published.*
-
-The drafting stage for webtoon authors involves developing the storyline and solidifying the character designs and images before serializing their webtoons. Given the excessive workload during the serialization process, enhancing quality in the drafting stage is crucial. Meanwhile, with advancements in generative AI, a Human-AI co-creation (HACO) environment has aided creators in their creation process. However, there is limited research on generative AI-based HACO for the webtoon drafting stage. To address the problem, we conducted interviews and hands-on AI sessions with 16 webtoon authors to explore their expectations of generative AI and the challenges they face using it in the process. Based on these findings, we discuss how generative AI can effectively support their work in the webtoon drafting stage. Our study lays the groundwork for effectively integrating generative AI-based HACO into the webtoon drafting stage.
+This research investigates the task delegation trends of digital comic authors to generative AIs during the creation process. We observed 16 digital comic authors using generative AIs during the drafting stage. We categorized authors’ delegation levels and examined the extent of delegation, variations in AI usage, and calibration of delegation in co-creation. Our findings show that most authors delegate significant tasks to AI, with higher delegation linked to less time spent on creation and more detailed questions to AI. After co-creation, about 60% of authors adjusted their delegation levels, mostly calibrating to less delegation due to loss of agency and AI’s unoriginal outputs. We suggest strategies for calibrating delegation to an appropriate level, redefine trust in human-AI co-creation, and propose novel measurements for trust in these contexts. Our study provides insights into how authors can effectively collaborate with generative AIs, balance delegation, and navigate AI’s role in the creative process.
