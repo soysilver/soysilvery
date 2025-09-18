@@ -14,7 +14,7 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 #twitter: "#"
-linkedin: "soyeon-lee-b216b726b"
+#linkedin: "soyeon-lee-b216b726b"
 #stackoverflow: "#"
 github: "soysilver"
 #researchgate: "#"
