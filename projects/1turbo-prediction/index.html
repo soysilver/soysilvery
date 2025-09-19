@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <meta content="width=device-width, initial-scale=1" name="viewport">
+        <link rel="stylesheet" href="/soysilvery/assets/css/main.css">
+
+        <h1 class="post-headline">Soyeon Lee</h1>
+        <h3 class="post-description">Intern Researcher | Korea Institute of Science and Technology</h3>
+
+        <div class="links scroll">
+        <a href="/soysilvery/" style="color: #60c17d;" /">Home</a>
+        <a href="/soysilvery/projects/" style="color: #60c17d;">Projects</a>
+        <a href="/soysilvery/blog/" style="color: #60c17d;">Blog</a>
+        <a href="/soysilvery/archive/" style="color: #60c17d;">Archive</a>
+</div>
+
+
+        <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>2024) Predicting Turbo Performance | Soyeon Lee</title>
+<meta name="generator" content="Jekyll v4.3.2" />
+<meta property="og:title" content="2024) Predicting Turbo Performance" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Predicting the Performance of Compressor/Blower Systems using AI" />
+<meta property="og:description" content="Predicting the Performance of Compressor/Blower Systems using AI" />
+<link rel="canonical" href="/soysilvery/projects/1turbo-prediction/" />
+<meta property="og:url" content="/soysilvery/projects/1turbo-prediction/" />
+<meta property="og:site_name" content="Soyeon Lee" />
+<meta property="og:image" content="/soysilvery/assets/images/mlpArch.png" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-09-19T14:36:34+00:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="/soysilvery/assets/images/mlpArch.png" />
+<meta property="twitter:title" content="2024) Predicting Turbo Performance" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2025-09-19T14:36:34+00:00","datePublished":"2025-09-19T14:36:34+00:00","description":"Predicting the Performance of Compressor/Blower Systems using AI","headline":"2024) Predicting Turbo Performance","image":"/soysilvery/assets/images/mlpArch.png","mainEntityOfPage":{"@type":"WebPage","@id":"/soysilvery/projects/1turbo-prediction/"},"url":"/soysilvery/projects/1turbo-prediction/"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+        <!-- Generated using https://favicon.io/ -->
+<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png?">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png?">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png?">
+<link rel="manifest" href=site.webmanifest">
+
+
+        <!-- MathJax -->
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+
+  <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: { inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+     processEscapes: true
+    }
+  });
+</script>
+
+
+        <!-- Load fontawesome here for faster loadtimes: https://stackoverflow.com/a/35880730/9523246 -->
+        <script type="text/javascript"> (function() { var css = document.createElement('link'); css.href = 'https://use.fontawesome.com/releases/v5.11.0/css/all.css'; css.rel = 'stylesheet'; css.type = 'text/css'; document.getElementsByTagName('head')[0].appendChild(css); })(); </script>
+    </head>
+
+    <body>
+        <main>
+            <article>
+                <h1 class="post-headline">2024) Predicting Turbo Performance</h1>
+<p class="meta"><small>September 19, 2025</small></p>
+
+<p><em>(2024.06 - 2024.12)</em></p>
+
+<h1 id="predicting-the-performance-of-compressorblower-systems-using-ai">Predicting the Performance of Compressor/Blower Systems using AI</h1>
+
+<p>Performance maps are a popular tool for analyzing and predicting the operating characteristics of a turbine, such as efficiency, pressure ratio, and flow rate. They are critical to system evaluation because they provide insight into how a turbine performs under different operating conditions. By visually representing performance metrics through performance maps, users can identify the optimal operating range and run blowers accordingly in industrial applications. When blower performance maps rely solely on real-world data, they are often inefficient due to the limited number of data points, which prevents accurate comparisons and predictions. Therefore, it is common to use linear interpolation or curve fitting to make the data a little denser based on the acquired data. In this project, we created and presented three AI models to predict performance and compared the results with predictions using a linear regression curve.</p>
+
+<h2 id="proposed-model-architecture">Proposed Model Architecture</h2>
+
+<p>Developed 3 backpropagation neural network architectures</p>
+
+<p><img src="https://soysilver.github.io/soysilvery/assets/images/Architecture.png" alt="MLP Only">
+<img src="https://soysilver.github.io/soysilvery/assets/images/mlpAttention.png" alt="MLP + Self Attention"></p>
+
+<h2 id="results">Results</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"> </th>
+      <th style="text-align: center">Polynomial Fitting</th>
+      <th style="text-align: center">MLP</th>
+      <th style="text-align: center">CNN + MLP</th>
+      <th style="text-align: center">Self Attention</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">MAE</td>
+      <td style="text-align: center">75.1555</td>
+      <td style="text-align: center">11.7533</td>
+      <td style="text-align: center">11.6837</td>
+      <td style="text-align: center">11.6079</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Flow Rate MAE</td>
+      <td style="text-align: center">10.506</td>
+      <td style="text-align: center">3.8732</td>
+      <td style="text-align: center">3.7618</td>
+      <td style="text-align: center">3.7711</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Power MAE</td>
+      <td style="text-align: center">139.805</td>
+      <td style="text-align: center">19.6333</td>
+      <td style="text-align: center">19.6055</td>
+      <td style="text-align: center">19.4446</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Flow Rate (%)</td>
+      <td style="text-align: center">93.9665</td>
+      <td style="text-align: center">97.8463</td>
+      <td style="text-align: center">97.9082</td>
+      <td style="text-align: center">97.9030</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Power (%)</td>
+      <td style="text-align: center">96.8410</td>
+      <td style="text-align: center">99.5472</td>
+      <td style="text-align: center">99.5479</td>
+      <td style="text-align: center">99.5516</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Experiments showed that the proposed models outperformed the traditional polynomial method. 
+In addition, the models that reflect the relationships within a piece of data were more effective in training.</p>
+
+<h2 id="publications">Publications</h2>
+
+<p><a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11935183" target="_blank" rel="noopener noreferrer">Yunseok Ha, Jongyoung Kim, Soyeon Lee, and Yong-Bok Lee, “Research on Optimal Operation of Compressor utilizing Multi-Layer Perceptron and Polynomial Curve Fitting”, Korean Society for Fluid Machinery (Jul, 2024)</a>
+<br></p>
+
+<p><a href="">Soyeon Lee, Yunseok Ha,Jongyoung Kim, and Yong-Bok Lee, “Predicting the Performance of Blower Systems using Multi-Layer-Perceptron(MLP) Architecture with Real Data”, Korean Society for Fluid Machinery (Dec, 2024)</a></p>
+
+
+<!-- Comments only for posts -->
+
+
+            </article>
+        </main>
+
+        <footer>
+          <p class="copy">
+            <small> © Soyeon Lee 2025
+                    | Powered by Jekyll and
+                    <a target="_blank" href="https://github.com/jitinnair1/gradfolio/" rel="noopener noreferrer">Gradfolio</a>.
+                    Last updated on 19 September 2025
+            </small>
+          </p>
+
+        <div class="rounded-social-buttons">
+<a title="" class="social-button email" itemprop="email" href="mailto:%73%6F%79%73%69%6C%76%65%72@%6B%69%73%74.%72%65.%6B%72" target="_blank">
+<i class="far fa-envelope"></i>
+</a><a title="" class="social-button github" href="https://www.github.com/soysilver" itemprop="sameAs" target="_blank" rel="noopener noreferrer">
+<i class="fab fa-github"></i>
+</a>
+</div>
+
+
+        </footer>
+
+        <!-- Google Analytics Tracking code -->
+<script src="https://cdn.jsdelivr.net/npm/ga-lite@1/dist/ga-lite.min.js" async></script>
+<script>
+var galite = galite || {};
+galite.UA = '';
+</script>
+
+    </body>
+
+</html>
